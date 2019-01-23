@@ -1,2 +1,2 @@
 # hello-world
-first repo in git hub
+hola este es un cambio de la version inicial.
